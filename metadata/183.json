@@ -1,0 +1,14 @@
+{
+    "name": "Bananahead #183",
+    "attributes": [
+        {
+            "trait_type": "Nanatype",
+            "value": "Humanoid Nana"
+        },
+        {
+            "trait_type": "EyeType",
+            "value": "Glasses"
+        }
+    ],
+    "image": "https://raw.githubusercontent.com/ultraKelevra/bananaheadz/main/images/183.jpg"
+}
